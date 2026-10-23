@@ -215,10 +215,10 @@
   resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-15.5.28.tgz#6f56363b38ad8cb76ab9421125a5f3afc2b92d65"
   integrity sha512-GNipvXUYROSTf4PXEyH95FrWImIB5zdaK6uEOg0RP1/X2drnvoMwiBkJ0VWdzX7w3iiBm3y5g2TxkKDGVTOQcg==
 
-"@socialgouv/matomo-next@^1.9.2":
-  version "1.14.2"
-  resolved "https://registry.yarnpkg.com/@socialgouv/matomo-next/-/matomo-next-1.14.2.tgz#d35c6ede79308682a30d34b596c986013c4298cb"
-  integrity sha512-K7blGIQdkV9+ihxxtR/ABxeMsTTet/MiIluPW7BMkBBmoTOhWKzIfxzjc1MrLvZHC5aInCLeuNdW8hRMi4jkog==
+"@socialgouv/matomo-next@1.9.2":
+  version "1.9.2"
+  resolved "https://registry.yarnpkg.com/@socialgouv/matomo-next/-/matomo-next-1.9.2.tgz#8175b20f98b01e1a5fcee3c5207b091bcc44dd78"
+  integrity sha512-UtiOBAzKiCwal6/2Lfh3fnv9L8XC4Ovdqqh1K3fimJZJhodf18fD3oy3ansGpgj+A7YE8HPV7/u/q6cYbRP3nw==
 
 "@swc/helpers@0.5.15":
   version "0.5.15"
