@@ -1,0 +1,7 @@
+/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+  Access-Control-Allow-Headers: Content-Type, x-trace-secret
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Content-Security-Policy: style-src * 'self' 'unsafe-inline'; img-src * 'self' data: blob: https://media.trace.moe/; frame-src www.youtube-nocookie.com www.youtube.com www.google.com; media-src blob: 'self' https://media.trace.moe/; form-action 'self' sora.yue.sh; base-uri 'none'; frame-ancestors 'none'; manifest-src 'self'; block-all-mixed-content

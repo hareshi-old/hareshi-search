@@ -7,8 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start --port=2211",
-    "export": "next export",
-    "build-export-start": "next build && next export && next start",
+    "build-export-start": "next build && next start",
     "prettier": "prettier",
     "format": "prettier --write \"**/*.js\"",
     "lint": "prettier --check \"**/*.js\"",
@@ -25,14 +24,12 @@
   },
   "homepage": "https://search.hareshi.net",
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^3.5.3"
   },
   "dependencies": {
-    "@socialgouv/matomo-next": "^1.2.2",
-    "chart.js": "^3.5.1",
-    "next": "^11.1.2",
-    "react": "^17.0.2",
-    "react-chartjs-2": "^3.1.1",
-    "react-dom": "^17.0.2"
+    "@socialgouv/matomo-next": "^1.9.2",
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
